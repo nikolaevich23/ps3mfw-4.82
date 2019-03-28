@@ -3,7 +3,7 @@
 	<language>Russian_Russkiy</language>
 	<BUILD_DIR>D:\TEMP\PS3MFW</BUILD_DIR>
 	<PS3_KEYS>D:/00/ps3tools/ps3mfw/trunk/ps3keys</PS3_KEYS>	
-	<IN_FILE>PS3UPDAT.PUP</IN_FILE>	
-	<OUT_FILE>ps3mfw-builder-0.2.1-mod/test</OUT_FILE>	    
+	<IN_FILE>D:/00/ps3tools/ps3mfw/PS3UPDAT.PUP</IN_FILE>	
+	<OUT_FILE>D:/00/ps3tools/ps3mfw/test.PUP</OUT_FILE>	    
 	<tasks></tasks>
 </Settings>
